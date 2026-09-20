@@ -34,11 +34,17 @@ Possess deep expertise in converting complex financial data into interactive vis
 
 ---
 
-### 2. Looker Studio Global Workforce & Resource Allocation Analytics
-* **Primary Tool:** Looker Studio | Google BigQuery / SQL
-* **Overview:** Consolidated global headcount, utilization, capacity, and attrition metrics across cross-location teams into a unified reporting portal.
-* **Impact & Results:** Replaced manual reporting tasks, saving **25% in operational effort ($30K+ annually)** and streamlining executive decision-making.
-* **Links:** [Live Looker Studio Report](https://lookerstudio.google.com/...) | [View Repository](https://github.com/wgoleta/workforce-analytics-looker)
+## 2. Hardware Home Essentials Sales & Profitability Dashboard
+- **Primary Tool:** Looker Studio (Data Studio) | Data Blending | Multi-Source Integration | Calculated Fields
+- **Overview:** Engineered an interactive executive sales and profitability dashboard aggregating multiple disparate dataset tables into a unified reporting interface to evaluate product performance, regional distribution, and monthly margin trajectories.
+- **Technical Features & Implementation:**
+  - **Data Blending & Multi-Source Management:** Blended raw sales transactions (`Hardware Essentials - Sales`), country mapping (`Countries`), exchange rates (`Fx Rates`), and procurement logs (`Purchases`) into a unified `Hardware Home Essentials Blended Table`.
+  - **Calculated Fields & Currency Normalization:** Built custom calculated fields to calculate net metrics, product margins, and dynamically convert multi-currency revenue streams into normalized USD values ($58.9K Total Sales, $34.0K Profit, 526 Units Sold, $350.4 Avg Order Value).
+  - **Comparative Analysis:** Configured comparison data ranges to evaluate period-over-period growth trajectories (tracking +23.6% Sales and Profit growth).
+  - **Interactive Controls & Slicers:** Implemented multi-select dimensional filter controls for Year (`2023`, `2024`, `2025`), Country (`UAE`, `USA`, `UK`, `Australia`, `France`), and Supplier channels (e.g., `WindowWonders Ltd.`, `ToolTech Inc.`).
+  - **Visual Analytics:** Designed dynamic visual charts including category bar charts (Furniture $14.9K lead), regional donut breakdown (UAE leading at 33.3%), and time-series dual-axis trend lines comparing Sales USD vs. Profit USD.
+- **Impact & Results:** Streamlined executive decision-making by eliminating manual cross-table data manipulation and providing real-time visibility into high-margin product categories and supplier channels.
+- **Links:** [Live Looker Studio Dashboard](https://datastudio.google.com/reporting/cfb89184-bca7-4478-b4df-3370e567c990/page/Bim8F/edit)
 
 ---
 
