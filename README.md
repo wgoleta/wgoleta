@@ -29,7 +29,7 @@ I bring 15+ years of experience across operations, reporting, and process improv
 
 An interactive sales and profitability report that combines sales, country, foreign exchange, and purchasing data. It uses data blending, calculated fields, currency conversion, and date and country controls to explore revenue, margin, product, and regional trends.
 
-![Google Data Studio - Hardware Home Essentials](Google%20Data%20Studio%20-%20Hardware Home Essentials.png)
+![Google Data Studio - Hardware Home Essentials](Google%20Data%20Studio%20-%20Hardware%20Home%20Essentials.png)
 
 [View the Looker Studio report](https://datastudio.google.com/reporting/cfb89184-bca7-4478-b4df-3370e567c990/page/Bim8F/edit)
 
