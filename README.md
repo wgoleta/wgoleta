@@ -12,7 +12,7 @@ I bring 15+ years of experience across operations, reporting, and process improv
 
 **A portfolio report built with synthetic, anonymized data.** It brings processor performance, payment fees, savings opportunities, and network incentives into four connected views.
 
-![Global Payments Performance Executive Overview](assets/global-payments-executive-overview.png)
+![Global Payments Performance Executive Overview](Global%20Payments%20Executive%20Overview.png)
 
 | Report page | Questions it helps answer |
 | --- | --- |
