@@ -14,7 +14,7 @@ I bring 15+ years of experience across operations, reporting, and process improv
 
 The report uses Power Query, a shared-dimension data model, DAX measures, drillthrough, tooltips, synced slicers, and mobile layouts. I also embedded a Power App that saves reviews to Dataverse and built a Power Automate flow that flags high-variance reviews and sends an email alert.
 
-[![Global Payments Executive Overview](https://raw.githubusercontent.com/wgoleta/global-payments-performance/main/Global%20Payments%20Executive%20Overview%20v2.png)](https://github.com/wgoleta/global-payments-performance)
+[![Global Payments Executive Overview](https://raw.githubusercontent.com/wgoleta/global-payments-performance/main/Global%20Payments%20Executive%20Overview%20v3.png)](https://github.com/wgoleta/global-payments-performance)
 
 | Report page | Question it helps answer |
 | --- | --- |
