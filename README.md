@@ -36,13 +36,36 @@ An interactive sales and profitability report that combines sales, country, fore
 
 [View the Looker Studio report](https://datastudio.google.com/reporting/cfb89184-bca7-4478-b4df-3370e567c990/page/Bim8F)
 
+### Greenview Heights HOA Portal · Google Apps Script + Google Sheets
+
+A community portal that brings homeowner announcements, financial reporting, and member dues inquiries into one browser-based app. It provides mobile and tablet views, with announcements and financial summaries connected to Google Sheets.
+
+| Portal view | What it helps users do |
+| --- | --- |
+| Board Announcements | Read community notices, maintenance updates, and event information. |
+| Financial Transparency | Review total collections, operating expenses, retained funds, and category-level inflows and outflows. |
+| Member Dues Inquiry | Select a household and enter the last four digits of its registered mobile number to request a balance. |
+
+#### Board announcements
+![Greenview Heights HOA Portal board announcements](assets/hoa/hoa-announcements.jpg)
+
+#### Financial transparency dashboard
+![Greenview Heights HOA Portal financial dashboard](assets/hoa/hoa-finances.jpg)
+
+#### Member dues inquiry
+![Greenview Heights HOA Portal member balance lookup form](assets/hoa/hoa-balance.jpg)
+
+[Open the live HOA portal](https://script.google.com/macros/s/AKfycbyi3BvhA_0hRkMkFhduit0x79MTbgk3OU1_-NzATvOavHLuc8bP3hp4FKeh0JClLQcXBw/exec)
+
+The screenshots show the announcements, aggregate financial dashboard, and blank balance inquiry form. Individual household statements are not included.
+
 ## Experience behind the projects
 
 In a payments controls and optimization role, I led analysts monitoring payment fees and network incentives. Our team tracked approximately **$34M in network incentives** and supported initiatives associated with approximately **$2M in annual payment fee savings**. My contribution included guiding the analysis, reviewing findings, establishing recurring reporting, coordinating with stakeholders, and tracking implementation and realized savings. These are professional experience figures, not outputs from the synthetic Power BI project.
 
 ## Tools and learning
 
-- **Analytics and automation:** Power BI, DAX, Power Query, Power Apps, Power Automate, Dataverse, Looker Studio, SQL, Excel, Google Sheets
+- **Analytics and automation:** Power BI, DAX, Power Query, Power Apps, Power Automate, Dataverse, Looker Studio, SQL, Excel, Google Sheets, Google Apps Script
 - **Business context:** Payments operations, fee analysis, Order-to-Cash, reporting, process improvement
 - **Recent learning:** Completed a Coursera Power BI Data Analyst specialization; continuing to practice data modeling, DAX, and project walkthroughs
 
